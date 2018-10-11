@@ -113,7 +113,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'doraemon_nirvana',
         'USER': 'teamcat',
-        'PASSWORD': 'Nopass.2',
+        'PASSWORD': 'xxxxxx',
         'HOST': MYSQLHOST,
         'PORT': MYSQLPORT,
     },
@@ -191,13 +191,13 @@ REDIS = {
 }
 
 EMAILCONFIG = {
-    'HOST': 'smtp.kingsoft.com',
+    'HOST': 'smtp.email.com',
     'PORT': 25,
     'USER': 'gedqa',
     'PASSWORD': '',
     'ISAUTH': False,
     'STARTSSL': False,
-    'POSTFIX': 'kingsoft.com'
+    'POSTFIX': 'email.com'
 }
 
 BASE_DIR_TEST = "/Users/ethan/Documents/OneDrive/coding.net/doraemon_nirvana_lte/doraemon/doraemon"
