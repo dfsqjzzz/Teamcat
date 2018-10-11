@@ -26,7 +26,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = False
 
-ALLOWED_HOSTS = ['teamcat.qyvideo.net', '10.69.58.195']
+ALLOWED_HOSTS = ['teamcat.cn', '10.69.58.195']
 
 # Application definition
 
@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'doraemon_nirvana',
         'USER': 'teamcat',
-        'PASSWORD': 'Nopass.2',
+        'PASSWORD': 'xxxxxx',
         'HOST': '127.0.0.1',
         'PORT': '8001',
     },
@@ -160,13 +160,13 @@ REDIS_HOST = "127.0.0.1"
 REDIS_HOST_PORT = 8803
 
 EMAILCONFIG = {
-    'HOST': 'smtp.kingsoft.com',
+    'HOST': 'smtp.teamcat.com',
     'PORT': 25,
     'USER': 'gedqa',
     'PASSWORD': '',
     'ISAUTH': False,
     'STARTSSL': False,
-    'POSTFIX': 'kingsoft.com'
+    'POSTFIX': 'teamcat.com'
 }
 
 # Internationalization
