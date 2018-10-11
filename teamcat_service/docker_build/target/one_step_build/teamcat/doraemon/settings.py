@@ -164,13 +164,13 @@ REDIS = {
 }
 
 EMAILCONFIG = {
-    'HOST': 'smtp.kingsoft.com',
+    'HOST': 'smtp.email.com',
     'PORT': 25,
-    'USER': 'gedqa',
+    'USER': 'qa',
     'PASSWORD': '',
     'ISAUTH': False,
     'STARTSSL': False,
-    'POSTFIX': 'kingsoft.com'
+    'POSTFIX': 'emial.com'
 }
 
 # Internationalization
