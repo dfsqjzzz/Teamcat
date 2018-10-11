@@ -1,0 +1,5 @@
+[2018-06-20 19:43:57,453 - FailureRetryTask-pool-3 -   INFO]  AgentDetecter-开始运行  --[agentDetecter]
+[2018-06-20 19:43:58,830 - FailureRetryTask-pool-3 -   INFO]  AgentID：2 连接成功  --[agentDetecter]
+[2018-06-20 19:43:59,101 - FailureRetryTask-pool-3 -   INFO]  AgentID：8 连接成功  --[agentDetecter]
+[2018-06-20 19:43:59,322 - FailureRetryTask-pool-3 -   INFO]  AgentID：11 连接成功  --[agentDetecter]
+[2018-06-20 19:43:59,323 - FailureRetryTask-pool-3 -   INFO]  AgentDetecter-运行完毕  --[agentDetecter]

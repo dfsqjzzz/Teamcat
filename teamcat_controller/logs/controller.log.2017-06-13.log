@@ -1,0 +1,1709 @@
+[2017-06-13 09:59:03,724 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:03,725 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:03,841 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:03,842 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:03,842 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:03,842 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:13,728 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:13,728 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:13,740 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:13,740 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:13,740 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:13,740 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:23,728 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:23,728 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:23,741 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:23,741 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:23,742 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:23,742 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:33,725 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:33,725 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:33,737 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:33,737 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:33,737 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:33,737 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:43,728 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:43,728 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:43,740 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:43,740 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:43,740 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:43,740 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:53,728 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 09:59:53,728 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:53,740 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 09:59:53,740 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:53,740 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 09:59:53,740 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 10:00:03,728 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 10:00:03,728 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 10:00:03,741 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 10:00:03,741 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 10:00:03,741 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 10:00:03,741 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:03,111 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:03,112 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:03,210 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:03,211 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:03,212 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:03,212 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:03,558 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:12:03,558 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">408</td><td style = "color:#6C6C6C">2017-06-13 03:08:35</td><td style ="color:#6C6C6C"></td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:12:13,117 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:13,117 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:13,135 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:13,135 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:13,135 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:13,135 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:23,113 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:23,113 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:23,127 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:23,128 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:23,128 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:23,128 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:33,117 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:33,117 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:33,137 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:33,137 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:33,137 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:33,137 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:43,118 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:43,118 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:43,131 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:43,131 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:43,132 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:43,132 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:58,467 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:58,468 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:58,610 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:12:58,611 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:58,611 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:12:58,611 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:12:58,817 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:12:58,817 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">408</td><td style = "color:#6C6C6C">2017-06-13 03:08:35</td><td style ="color:#6C6C6C"></td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:13:08,465 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:08,466 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:08,477 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:08,477 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:08,478 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:08,478 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:18,469 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:18,469 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:18,484 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:18,485 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:18,485 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:18,485 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:28,463 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:28,463 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:28,475 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:28,475 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:28,475 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:28,475 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:38,966 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:13:38,966 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:38,981 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:13:38,981 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:38,981 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:13:38,981 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:14:33,079 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:14:33,080 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:14:33,176 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:14:33,177 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:14:33,177 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:14:33,177 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:14:43,078 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:14:43,078 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:14:43,090 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:14:43,090 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:14:43,090 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:14:43,090 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:14:53,079 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:14:53,079 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:14:53,093 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:14:53,093 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:14:53,094 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:14:53,094 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:03,079 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:03,079 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:03,093 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:03,093 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:03,093 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:03,093 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:13,075 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:13,076 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:13,091 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:13,091 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:13,091 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:13,091 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:23,081 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:23,081 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:23,094 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:23,094 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:23,094 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:23,094 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:33,078 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:33,078 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:33,093 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:33,093 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:33,093 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:33,093 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:43,083 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:43,083 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:43,098 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:43,098 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:43,098 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:43,098 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:53,087 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:15:53,087 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:53,099 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:15:53,100 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:53,100 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:15:53,100 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:03,093 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:03,093 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:03,124 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:03,124 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:03,124 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:03,124 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:16,817 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:16,818 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:16,942 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:16,943 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:16,945 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:16,945 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:26,819 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:26,819 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:26,835 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:26,835 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:26,835 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:26,835 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:36,817 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:36,817 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:37,163 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:37,164 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:37,198 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:37,202 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-开始运行  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:37,213 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean- taskQueueID:409该任务已完成  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:37,213 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-更新任务历史信息  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:37,340 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-开始发送CI任务邮件  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:37,671 - FailureRetryTask-pool-2 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/ci/task_history/13/  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:16:37,939 - FailureRetryTask-pool-2 -   INFO]  输入参数为:  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:16:37,940 - FailureRetryTask-pool-2 -   INFO]  {"code":200,"message":"OK","result":{"id":13,"StartTime":"0","EndTime":"0","StartedBy":"张天得","ProjectVersion":"2.0.2","Package":"","BuildLog":"","CITaskID":1,"Tags":null,"LogFileID":null,"ChangeLog":null,"BuildStatus":2,"TaskQueueID":0,"BuildMessage":null,"BuildErrorCode":0,"CodeVersion":null,"BuildVersion":13,"PackageInfo":null,"BuildParameterID":"","AgentID":0}}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:16:38,028 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-正在发送TaskQueueId为409的邮件  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:38,031 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: [TEST-2.0.2-13]任务构建失败  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:16:38,031 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 90%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				align:center;
+				margin: 0; 
+				padding: 0;
+				margin-right: auto;
+				margin-left: auto;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:2;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+		
+	</head>
+
+	<body>
+		 <table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - [TEST-2.0.2-13]任务构建失败</td>
+			</tr>		
+		</table><br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">项目信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>
+		</table> 
+		<table class="subject">
+			<tr >
+				<td style = "color:#6C6C6C;">项目名称: TEST</td>
+			</tr>		
+			<tr >
+				<td style = "color:#6C6C6C;">项目版本: 2.0.2</td>
+			</tr>
+			<tr >
+				<td style = "color:#6C6C6C;">构建版本: 13</td>
+			</tr>
+			<tr >
+				<td style = "color:#6C6C6C;">构建人员: 张天得</td>
+			</tr>
+			<tr >
+				<td style = "color:#6C6C6C;">构建参数: --</td>
+			</tr>
+		</table><br>	
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">任务详情</td>
+			</tr>			
+			<tr > 
+				<td style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>			
+		</table><br>
+		<table border="1" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+				<tr >
+					<td style = "color:#6C6C6C;"><b>任务名称</b></td><td style = "color:#6C6C6C;"><b>任务结果</b></td><td style ="color:#6C6C6C"><b>开始时间</b></td><td style ="color:#6C6C6C"><b>持续时间</b></td>
+				</tr>		
+				<tr >
+					<td style = "color:#6C6C6C;">TEST</td><td style = "color:#6C6C6C">Fail</td><td style ="color:#6C6C6C">--</td><td style ="color:#6C6C6C">--</td>
+				</tr>
+		</table><br>
+			
+		
+		
+				<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">构建详情</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<table class="subject">
+			<tr >
+				<td style = "color:#6C6C6C;">构建信息: 任务构建失败！</td>
+			</tr>		
+			<tr >
+				<td style = "color:#6C6C6C;">构建日志: </td>
+			</tr>
+		</table>
+		<br>	
+			
+
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:16:38,059 - FailureRetryTask-pool-2 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/project/project_members/1/  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:16:38,251 - FailureRetryTask-pool-2 -   INFO]  输入参数为:  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:16:38,251 - FailureRetryTask-pool-2 -   INFO]  {"code":200,"message":"OK","result":[{"id":1,"email":"zhangtiande@kingsoft.com","name":"张天得","PMProjectID":1,"PMRoleID":5,"PMRoleType":1,"PMMember":4},{"id":2,"email":"zhangtiande@kingsoft.com","name":"张天得","PMProjectID":1,"PMRoleID":4,"PMRoleType":1,"PMMember":4}]}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:16:38,338 - FailureRetryTask-pool-2 -  ERROR]  Could not connect to SMTP host: 192.168.12.17, port: 25, response: 554  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:38,338 - FailureRetryTask-pool-2 -  ERROR]  [Ljava.lang.StackTraceElement;@1a88f743  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:38,388 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:38,388 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:46,818 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:46,818 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:46,833 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:46,834 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:46,834 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:46,834 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:56,822 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:16:56,822 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:56,837 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:16:56,837 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:56,880 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:16:56,880 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-开始运行  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:56,880 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:16:56,881 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:16:56,884 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:16:56,885 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-开始运行  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:16:56,885 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:16:56,886 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:16:56,886 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:16:56,886 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:06,815 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:06,815 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:06,827 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:06,828 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:06,828 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:06,828 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:16,818 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:16,818 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:16,831 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:16,831 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:16,831 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:16,831 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:26,816 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:26,816 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:26,832 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:26,832 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:26,832 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:26,832 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:36,817 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:36,817 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:36,830 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:36,830 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:36,830 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:36,830 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:46,814 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:46,814 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:46,826 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:46,826 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:46,826 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:46,826 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:56,825 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:17:56,825 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:56,847 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:17:56,847 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:56,847 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:17:56,847 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:18:06,817 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:18:06,818 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:18:06,830 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:18:06,831 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:18:06,831 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:18:06,831 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:08,227 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:08,228 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:08,659 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:08,660 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:08,660 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:08,661 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:08,688 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:20:08,688 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">411</td><td style = "color:#6C6C6C">2017-06-13 03:19:31</td><td style ="color:#6C6C6C">--</td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:20:09,440 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:09,440 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:09,561 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:09,563 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:09,563 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:09,563 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:09,808 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:20:09,808 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">411</td><td style = "color:#6C6C6C">2017-06-13 03:19:31</td><td style ="color:#6C6C6C">--</td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:20:10,512 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:10,512 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:10,629 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:10,630 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:10,630 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:10,630 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:10,859 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:20:10,859 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">411</td><td style = "color:#6C6C6C">2017-06-13 03:19:31</td><td style ="color:#6C6C6C">--</td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:20:18,224 - FailureRetryTask-pool-1 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:18,224 - FailureRetryTask-pool-1 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:18,246 - FailureRetryTask-pool-1 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:18,246 - FailureRetryTask-pool-1 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:18,246 - FailureRetryTask-pool-1 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:18,246 - FailureRetryTask-pool-1 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:19,438 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:19,438 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:19,448 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:19,448 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:19,449 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:19,449 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:20,511 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:20,511 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:20,913 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:20,913 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:20,913 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:20,914 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:28,225 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:28,225 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:28,242 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:28,242 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:28,242 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:28,242 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:29,439 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:29,439 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:29,452 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:29,452 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:29,452 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:29,452 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:30,519 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:30,519 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:30,537 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:30,538 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:30,538 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:30,538 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:38,224 - FailureRetryTask-pool-1 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:38,224 - FailureRetryTask-pool-1 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:38,238 - FailureRetryTask-pool-1 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:38,238 - FailureRetryTask-pool-1 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:38,238 - FailureRetryTask-pool-1 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:38,238 - FailureRetryTask-pool-1 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:39,440 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:39,440 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:39,451 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:39,451 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:39,451 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:39,452 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:40,508 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:40,508 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:40,519 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:40,519 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:40,519 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:40,519 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:48,223 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:48,224 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:48,241 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:48,242 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:48,242 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:48,242 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:49,439 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:49,439 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:49,451 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:49,451 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:49,451 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:49,451 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:50,511 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:50,511 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:50,523 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:50,523 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:50,523 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:50,523 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:58,220 - FailureRetryTask-pool-1 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:58,220 - FailureRetryTask-pool-1 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:58,234 - FailureRetryTask-pool-1 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:58,234 - FailureRetryTask-pool-1 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:58,234 - FailureRetryTask-pool-1 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:58,234 - FailureRetryTask-pool-1 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:59,441 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:20:59,441 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:59,454 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:20:59,454 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:59,455 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:20:59,455 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:08,227 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:08,227 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:08,241 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:08,241 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:08,241 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:08,241 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:09,445 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:09,445 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:09,460 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:09,460 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:09,460 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:09,460 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:18,224 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:18,224 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:18,235 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:18,235 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:18,235 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:18,235 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:19,440 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:19,440 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:19,453 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:19,453 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:19,453 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:19,453 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:28,219 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:28,219 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:28,233 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:28,233 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:28,233 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:28,233 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:55,574 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:21:55,575 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:55,693 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:21:55,694 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:55,694 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:21:55,694 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:22:05,575 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:22:05,575 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:22:05,587 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:22:05,587 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:22:05,587 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:22:05,587 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:23:41,980 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:23:41,981 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:23:41,994 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:23:41,994 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:23:41,995 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:23:41,995 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:20,144 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:20,145 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:20,261 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:20,261 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:20,262 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:20,262 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:30,143 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:30,143 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:30,155 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:30,155 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:30,156 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:30,156 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:40,147 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:40,147 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:40,161 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:40,162 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:40,162 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:40,162 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:50,146 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:24:50,147 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:50,160 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:24:50,160 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:24:50,202 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:04,702 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-开始运行  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:25:09,479 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:25:09,480 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:25:09,565 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-正在处理taskQId为412的任务  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:25:09,633 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:25:09,633 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-开始运行  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:09,634 - FailureRetryTask-pool-2 -   INFO]  TaskAssign-正在处理taskQueId为412的任务  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:09,963 - FailureRetryTask-pool-2 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/ci/task/get_task?task_id=1&task_type=4  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:25:10,402 - FailureRetryTask-pool-2 -   INFO]  输入参数为:task_id=1&task_type=4  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:25:10,403 - FailureRetryTask-pool-2 -   INFO]  {"code": 0, "msg": "success", "result": {"task_config": {"post_section": {"section_id": 4, "plugins": []}, "pre_section": {"section_id": 1, "plugins": []}, "scm_section": {"section_id": 2, "plugins": []}, "build_section": {"section_id": 3, "plugins": []}, "basic_section": {"section_id": 0, "plugins": [{"order": 0, "parameter": [{"value": "1", "name": "id"}, {"value": "TEST", "name": "TaskName"}, {"value": "1", "name": "ci_task_project"}, {"value": "10", "name": "HistoryCleanStrategy"}, {"value": "", "name": "Description"}, {"value": "16,", "name": "agent_condations"}, {"value": "1", "name": "agent_filter_type"}, {"value": "1", "name": "ci_agent_select"}, {"value": "", "name": "time_trigger"}, {"value": "4", "name": "TaskType"}], "is_enable": ""}]}}, "project_id": 1, "ci_task_id": 1, "deploy_service": 0}}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:25:10,567 - FailureRetryTask-pool-2 -   INFO]  TaskAssign-指定Agent不可用  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:10,567 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:10,568 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:25:10,568 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:25:10,568 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:10,642 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:10,642 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:10,659 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:10,659 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:10,695 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:19,864 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-开始运行  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:25:25,951 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:25:25,951 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:25:25,951 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:25:25,951 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-开始运行  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:25,951 - FailureRetryTask-pool-2 -   INFO]  TaskAssign-正在处理taskQueId为412的任务  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:25,958 - FailureRetryTask-pool-2 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/ci/task/get_task?task_id=1&task_type=4  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:25:26,265 - FailureRetryTask-pool-2 -   INFO]  输入参数为:task_id=1&task_type=4  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:25:26,266 - FailureRetryTask-pool-2 -   INFO]  {"code": 0, "msg": "success", "result": {"task_config": {"post_section": {"section_id": 4, "plugins": []}, "pre_section": {"section_id": 1, "plugins": []}, "scm_section": {"section_id": 2, "plugins": []}, "build_section": {"section_id": 3, "plugins": []}, "basic_section": {"section_id": 0, "plugins": [{"order": 0, "parameter": [{"value": "1", "name": "id"}, {"value": "TEST", "name": "TaskName"}, {"value": "1", "name": "ci_task_project"}, {"value": "10", "name": "HistoryCleanStrategy"}, {"value": "", "name": "Description"}, {"value": "16,", "name": "agent_condations"}, {"value": "1", "name": "agent_filter_type"}, {"value": "1", "name": "ci_agent_select"}, {"value": "", "name": "time_trigger"}, {"value": "4", "name": "TaskType"}], "is_enable": ""}]}}, "project_id": 1, "ci_task_id": 1, "deploy_service": 0}}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:25:26,363 - FailureRetryTask-pool-2 -   INFO]  TaskAssign-指定Agent不可用  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:26,363 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:25:26,363 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:25:26,363 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:25:26,363 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:26,428 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:26,429 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:26,441 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:26,441 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:26,441 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:26,441 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:26,451 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:26,452 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:26,463 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:26,463 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:26,463 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:26,464 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:30,140 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:30,140 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:30,155 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:30,155 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:30,155 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:30,155 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:40,140 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:40,141 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:40,152 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:40,152 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:40,152 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:40,152 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:50,141 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:25:50,141 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:50,156 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:25:50,156 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:50,156 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:25:50,156 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:34:46,562 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:34:46,562 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:34:46,673 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:34:46,674 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:34:46,674 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:34:46,674 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:34:46,917 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:34:46,917 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">412</td><td style = "color:#6C6C6C">2017-06-13 03:24:47</td><td style ="color:#6C6C6C">--</td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:34:56,566 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:34:56,566 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:34:56,579 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:34:56,579 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:34:56,579 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:34:56,579 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:06,559 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:06,560 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:06,571 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:06,572 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:06,572 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:06,572 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:16,565 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:16,565 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:16,576 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:16,576 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:16,576 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:16,576 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:26,560 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:26,560 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:26,573 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:26,574 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:26,574 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:26,574 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:36,558 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:36,558 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:36,569 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:36,569 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:36,569 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:36,569 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:46,562 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:46,562 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:46,579 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:46,579 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:46,579 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:46,580 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:56,561 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:35:56,561 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:56,577 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:35:56,577 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:56,577 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:35:56,577 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:36:06,567 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:36:06,567 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:36:06,578 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:36:06,579 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:36:06,579 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:36:06,579 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:37:28,017 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:37:28,018 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:37:28,116 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:37:28,117 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:37:28,117 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:37:28,117 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:37:28,300 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:37:28,300 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">412</td><td style = "color:#6C6C6C">2017-06-13 03:24:47</td><td style ="color:#6C6C6C">--</td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:37:38,026 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:37:38,026 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:37:38,044 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:37:38,044 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:37:38,044 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:37:38,044 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:37:48,017 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:37:48,017 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:37:48,029 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:37:48,029 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:37:48,029 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:37:48,029 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:19,092 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:19,093 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:19,319 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:19,320 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:19,320 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:19,320 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:19,536 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:46:19,536 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">412</td><td style = "color:#6C6C6C">2017-06-13 03:24:47</td><td style ="color:#6C6C6C">--</td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:46:29,165 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:29,165 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:29,177 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:29,177 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:29,178 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:29,178 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:39,096 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:39,096 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:39,117 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:39,117 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:39,189 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:39,190 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-开始运行  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:39,219 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskClean-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:39,220 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:46:39,291 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-正在处理taskQId为413的任务  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:46:39,363 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSplit-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSplit]
+[2017-06-13 11:46:39,364 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-开始运行  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:46:39,364 - FailureRetryTask-pool-2 -   INFO]  TaskAssign-正在处理taskQueId为413的任务  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:46:39,645 - FailureRetryTask-pool-2 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/ci/task/get_task?task_id=1&task_type=4  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:40,044 - FailureRetryTask-pool-2 -   INFO]  输入参数为:task_id=1&task_type=4  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:40,046 - FailureRetryTask-pool-2 -   INFO]  {"code": 0, "msg": "success", "result": {"task_config": {"post_section": {"section_id": 4, "plugins": []}, "pre_section": {"section_id": 1, "plugins": []}, "scm_section": {"section_id": 2, "plugins": []}, "build_section": {"section_id": 3, "plugins": []}, "basic_section": {"section_id": 0, "plugins": [{"order": 0, "parameter": [{"value": "1", "name": "id"}, {"value": "TEST", "name": "TaskName"}, {"value": "1", "name": "ci_task_project"}, {"value": "10", "name": "HistoryCleanStrategy"}, {"value": "", "name": "Description"}, {"value": "16,", "name": "agent_condations"}, {"value": "1", "name": "agent_filter_type"}, {"value": "1", "name": "ci_agent_select"}, {"value": "", "name": "time_trigger"}, {"value": "4", "name": "TaskType"}], "is_enable": ""}]}}, "project_id": 1, "ci_task_id": 1, "deploy_service": 0}}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:40,231 - FailureRetryTask-pool-2 -   INFO]  TaskAssign-指定Agent不可用  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:46:40,231 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskAssign-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskAssign]
+[2017-06-13 11:46:40,233 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-开始运行  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:46:40,233 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskSend-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskSend]
+[2017-06-13 11:46:40,233 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:49,090 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:49,090 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:49,104 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:49,104 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:49,135 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:49,136 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskClean-开始运行  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,136 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskClean- taskQueueID:413该任务已完成  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,136 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskClean-更新任务历史信息  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,226 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskClean-开始发送CI任务邮件  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,268 - FailureRetryTask-pool-3 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/ci/task_history/17/  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:49,484 - FailureRetryTask-pool-3 -   INFO]  输入参数为:  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:49,484 - FailureRetryTask-pool-3 -   INFO]  {"code":200,"message":"OK","result":{"id":17,"StartTime":"0","EndTime":"0","StartedBy":"张天得","ProjectVersion":"2.0.2","Package":"","BuildLog":"","CITaskID":1,"Tags":null,"LogFileID":null,"ChangeLog":null,"BuildStatus":2,"TaskQueueID":0,"BuildMessage":null,"BuildErrorCode":0,"CodeVersion":null,"BuildVersion":17,"PackageInfo":null,"BuildParameterID":"","AgentID":0}}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:49,528 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskClean-正在发送TaskQueueId为413的邮件  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,530 - FailureRetryTask-pool-3 -   INFO]  EmailHelper-subject: [TEST-2.0.2-17]任务构建失败  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:46:49,530 - FailureRetryTask-pool-3 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 90%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				align:center;
+				margin: 0; 
+				padding: 0;
+				margin-right: auto;
+				margin-left: auto;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:2;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+		
+	</head>
+
+	<body>
+		 <table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - [TEST-2.0.2-17]任务构建失败</td>
+			</tr>		
+		</table><br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">项目信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>
+		</table> 
+		<table class="subject">
+			<tr >
+				<td style = "color:#6C6C6C;">项目名称: TEST</td>
+			</tr>		
+			<tr >
+				<td style = "color:#6C6C6C;">项目版本: 2.0.2</td>
+			</tr>
+			<tr >
+				<td style = "color:#6C6C6C;">构建版本: 17</td>
+			</tr>
+			<tr >
+				<td style = "color:#6C6C6C;">构建人员: 张天得</td>
+			</tr>
+			<tr >
+				<td style = "color:#6C6C6C;">构建参数: --</td>
+			</tr>
+		</table><br>	
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">任务详情</td>
+			</tr>			
+			<tr > 
+				<td style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>			
+		</table><br>
+		<table border="1" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+				<tr >
+					<td style = "color:#6C6C6C;"><b>任务名称</b></td><td style = "color:#6C6C6C;"><b>任务结果</b></td><td style ="color:#6C6C6C"><b>开始时间</b></td><td style ="color:#6C6C6C"><b>持续时间</b></td>
+				</tr>		
+				<tr >
+					<td style = "color:#6C6C6C;">TEST</td><td style = "color:#6C6C6C">Fail</td><td style ="color:#6C6C6C">--</td><td style ="color:#6C6C6C">--</td>
+				</tr>
+		</table><br>
+			
+		
+		
+				<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">构建详情</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<table class="subject">
+			<tr >
+				<td style = "color:#6C6C6C;">构建信息: 任务构建失败！</td>
+			</tr>		
+			<tr >
+				<td style = "color:#6C6C6C;">构建日志: </td>
+			</tr>
+		</table>
+		<br>	
+			
+
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 11:46:49,549 - FailureRetryTask-pool-3 -   INFO]  测试地址:http://teamcat.qyvideo.net/api/project/project_members/1/  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:49,758 - FailureRetryTask-pool-3 -   INFO]  输入参数为:  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:49,758 - FailureRetryTask-pool-3 -   INFO]  {"code":200,"message":"OK","result":[{"id":1,"email":"zhangtiande@kingsoft.com","name":"张天得","PMProjectID":1,"PMRoleID":5,"PMRoleType":1,"PMMember":4},{"id":2,"email":"zhangtiande@kingsoft.com","name":"张天得","PMProjectID":1,"PMRoleID":4,"PMRoleType":1,"PMMember":4}]}  --[com.pwrd.doreamon.controller.tools.HttpClientHelper]
+[2017-06-13 11:46:49,769 - FailureRetryTask-pool-3 -  ERROR]  Could not connect to SMTP host: 192.168.12.17, port: 25, response: 554  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,769 - FailureRetryTask-pool-3 -  ERROR]  [Ljava.lang.StackTraceElement;@22782dcd  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,850 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskClean-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskClean]
+[2017-06-13 11:46:49,850 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:59,094 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:46:59,094 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:59,106 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:46:59,106 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:59,106 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:46:59,106 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:09,092 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:09,092 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:09,102 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:09,102 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:09,102 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:09,102 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:19,092 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:19,092 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:19,107 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:19,107 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:19,108 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:19,108 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:29,089 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:29,089 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:29,101 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:29,101 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:29,101 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:29,101 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:39,097 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:39,097 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:39,112 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:39,112 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:39,112 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:39,112 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:49,092 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:49,092 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:49,101 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:47:49,101 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:49,102 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:47:49,102 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:59,924 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:47:59,924 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:00,479 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:00,480 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:00,480 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:00,480 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:09,091 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:09,091 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:09,102 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:09,102 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:09,102 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:09,102 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:19,093 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:19,093 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:19,105 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:19,105 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:19,105 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:19,105 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:29,091 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:29,092 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:29,105 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:29,105 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:29,105 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:29,105 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:39,102 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:39,102 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:39,115 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:39,115 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:39,115 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:39,115 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:49,093 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:49,093 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:49,106 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:49,106 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:49,106 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:49,106 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:59,094 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:48:59,094 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:59,105 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:48:59,106 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:59,106 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:48:59,106 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:49:09,093 - FailureRetryTask-pool-2 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:49:09,093 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:49:09,105 - FailureRetryTask-pool-2 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:49:09,105 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:49:09,105 - FailureRetryTask-pool-2 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:49:09,105 - FailureRetryTask-pool-2 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:49:19,091 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:49:19,092 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:49:19,104 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:49:19,104 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:49:19,104 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:49:19,104 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:49:29,087 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 11:49:29,087 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:49:29,099 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 11:49:29,100 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:49:29,100 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 11:49:29,100 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 13:30:49,471 - FailureRetryTask-pool-0 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 13:30:49,473 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 13:30:49,584 - FailureRetryTask-pool-0 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 13:30:49,586 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 13:30:49,586 - FailureRetryTask-pool-0 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 13:30:49,586 - FailureRetryTask-pool-0 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 13:30:49,746 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-subject: 当前有Disaster任务  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 13:30:49,746 - FailureRetryTask-pool-2 -   INFO]  EmailHelper-email: ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Email</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<style type="text/css">
+			body
+      	      {
+      	      	width: 100%;
+      	      	border:0;
+				background-color:#FFFFFF;
+				margin: 0; 
+				padding: 0;
+				font-family:Microsoft YaHei;
+      	      }
+      	      .title
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#50565F; 
+			  font-size:28px;
+      	      }	
+			  .summarytitle
+      	      {
+	          border:0;
+			  padding:0;
+			  spacing:0;
+			  width:100%;
+			  background-color:#FFFFFF; 
+			  font-size:25px;
+      	      }
+			   .subject
+      	      { 
+	          border:0;
+			  padding:8;
+			  spacing:0;
+			  width:100%;
+			   background-color:#FFFFFF;
+			  font-size:16px;
+      	      }
+         </style>
+	</head>
+	
+	
+	<body>
+		<table class = "title">
+			<tr > 
+				<td style = "color:#FFFFFF">TeamCat Report - 当前有Disaster任务</td>
+			</tr>		
+		</table>
+		<br>
+		<table class = "summarytitle">
+			<tr > 
+				<td style = "color:#FFA487">灾难任务信息</td>
+			</tr>
+			<tr > 
+				<td  style="height:2px;border:none;border-top:2px solid #FFA487;" ></td>
+			</tr>	
+		</table> 
+		<br>
+		<table class="subject">
+			<tr >
+				<td>	
+					<table border="2" cellpadding="10" cellspacing="0" width="90%" style="border-collapse: collapse;text-align:center;  background-color:#FFFFFF;">
+						<tr >
+							<td style = "color:#6C6C6C;"><b>队列ID</b></td><td style = "color:#6C6C6C;"><b>入列时间</b></td><td style ="color:#6C6C6C"><b>异常信息</b></td>
+						</tr>		
+						﻿		<tr >
+			<td style = "color:#6C6C6C;">415</td><td style = "color:#6C6C6C">2017-06-13 05:23:18</td><td style ="color:#6C6C6C"></td>					
+		</tr>
+
+					</table>	
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+  --[com.pwrd.doreamon.controller.tools.MailSender]
+[2017-06-13 13:30:59,469 - FailureRetryTask-pool-3 -   INFO]  Controller-开始运行  --[com.pwrd.doreamon.controller.app.Launcher]
+[2017-06-13 13:30:59,469 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-开始运行  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 13:30:59,480 - FailureRetryTask-pool-3 -   INFO]  Controller-Unlock-运行完毕  --[com.pwrd.doreamon.controller.flow.Unlock]
+[2017-06-13 13:30:59,480 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-开始运行  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 13:30:59,480 - FailureRetryTask-pool-3 -   INFO]  Controller-TaskTimeout-运行完毕  --[com.pwrd.doreamon.controller.flow.TaskTimeout]
+[2017-06-13 13:30:59,480 - FailureRetryTask-pool-3 -   INFO]  Controller-运行完毕-任务队列中无新任务  --[com.pwrd.doreamon.controller.app.Launcher]

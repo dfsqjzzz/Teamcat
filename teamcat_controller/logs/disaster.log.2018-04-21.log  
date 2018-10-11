@@ -1,0 +1,6 @@
+[2018-04-21 00:08:59,746 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
+[2018-04-21 00:09:00,976 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
+[2018-04-21 00:16:41,621 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
+[2018-04-21 00:16:42,809 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
+[2018-04-21 00:25:08,499 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
+[2018-04-21 00:25:09,822 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
