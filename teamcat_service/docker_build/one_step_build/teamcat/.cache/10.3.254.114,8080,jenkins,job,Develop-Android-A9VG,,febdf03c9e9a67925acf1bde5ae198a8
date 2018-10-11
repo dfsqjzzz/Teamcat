@@ -1,0 +1,141 @@
+status: 200
+x-hudson-cli-port: 35162
+x-jenkins-cli2-port: 35162
+x-jenkins-cli-port: 35162
+content-type: text/html;charset=UTF-8
+date: Mon, 14 Dec 2015 09:44:27 GMT
+cache-control: no-cache,must-revalidate
+x-hudson-theme: default
+x-ssh-endpoint: 10.3.254.114:57122
+x-instance-identity: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnnOszrDZRsd6hj8gz7RpQzRpHepR7mIPKCFG0o+eDie+aZFwUjpI5mMfs1Bcu+IWsqDYZui93meJ7KxfndnRmCo29QbuqYZVXRSz4s0RR8/5iUEUhlnCI6cSAyR6+R0noyBkBe61YqYkn6yqkAk7JkoE2yTsWK2A6cuMlrXToe2SQhkwGWorJEDdybzp9IYFqZG2f4qGRiOQi9w6rktppvkl00jRf309v24EqQrZXmTPe9BM3so2ppJiPW6AoA/C6gK1xIyMAbHHAJnr7Jyr4fvnPT88TZQvsXFnl3uL3I7FfS+MO4IK8UnGH7XjZV+iONuY7kYX4slC2KH9qPNwiwIDAQAB
+content-location: http://10.3.254.114:8080/jenkins/job/Develop-Android-A9VG/
+set-cookie: JSESSIONID=47A87A1A368E5DF312FCBAFBA9EF1C4F; Path=/jenkins; HttpOnly
+expires: 0
+x-hudson: 1.395
+content-length: 25463
+x-jenkins-session: 17b52c07
+x-jenkins: 1.535
+-content-encoding: gzip
+server: Apache-Coyote/1.1
+
+
+
+
+
+    
+    <!DOCTYPE html><html><head>
+    
+
+    <title>Develop-Android-A9VG [Jenkins]</title><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/css/style.css" /><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/css/color.css" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/jenkins/static/17b52c07/favicon.ico" /><script>var isRunAsTest=false; var rootURL="/jenkins"; var resURL="/jenkins/static/17b52c07";</script><script src="/jenkins/static/17b52c07/scripts/prototype.js" type="text/javascript"></script><script src="/jenkins/static/17b52c07/scripts/behavior.js" type="text/javascript"></script><script src='/jenkins/adjuncts/17b52c07/org/kohsuke/stapler/bind.js' type='text/javascript'></script><script src="/jenkins/static/17b52c07/scripts/yui/yahoo/yahoo-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/dom/dom-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/event/event-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/animation/animation-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/dragdrop/dragdrop-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/container/container-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/connection/connection-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/datasource/datasource-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/autocomplete/autocomplete-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/menu/menu-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/element/element-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/button/button-min.js"></script><script src="/jenkins/static/17b52c07/scripts/yui/storage/storage-min.js"></script><script src="/jenkins/static/17b52c07/scripts/hudson-behavior.js" type="text/javascript"></script><script src="/jenkins/static/17b52c07/scripts/sortable.js" type="text/javascript"></script><script>crumb.init("", "");</script><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/scripts/yui/container/assets/container.css" /><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/scripts/yui/assets/skins/sam/skin.css" /><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/scripts/yui/container/assets/skins/sam/container.css" /><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/scripts/yui/button/assets/skins/sam/button.css" /><link rel="stylesheet" type="text/css" href="/jenkins/static/17b52c07/scripts/yui/menu/assets/skins/sam/menu.css" /><link title="Jenkins" rel="search" type="application/opensearchdescription+xml" href="/jenkins/opensearch.xml" /><meta name="ROBOTS" content="INDEX,NOFOLLOW" /><link title="Jenkins:Develop-Android-A9VG (all builds)" rel="alternate" type="application/rss+xml" href="rssAll" /><link title="Jenkins:Develop-Android-A9VG (all builds) (RSS 2.0)" rel="alternate" type="application/rss+xml" href="rssAll?flavor=rss20" /><link title="Jenkins:Develop-Android-A9VG (failed builds)" rel="alternate" type="application/rss+xml" href="rssFailed" /><link title="Jenkins:Develop-Android-A9VG (failed builds) (RSS 2.0)" rel="alternate" type="application/rss+xml" href="rssFailed?flavor=rss20" /><link title="Jenkins:Develop-Android-A9VG (changelog)" rel="alternate" type="application/rss+xml" href="rssChangelog" /><link title="Jenkins:Develop-Android-A9VG (changelog) (RSS 2.0)" rel="alternate" type="application/rss+xml" href="rssChangelog?flavor=rss20" /><script src="/jenkins/static/17b52c07/scripts/yui/cookie/cookie-min.js"></script></head><body class="yui-skin-sam"><a href="#skip2content" class="skiplink">Skip to content</a><table id="header" cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td id="top-panel" colspan="2"><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td style="font-weight:bold; font-size: 2em;"><a href="/jenkins/"><img height="34" alt="title" width="139" src="/jenkins/static/17b52c07/images/title.png" /></a></td><td style="vertical-align: middle; text-align: right; padding-right: 1em;"><form style="position:relative;" name="search" action="/jenkins/job/Develop-Android-A9VG/search/" class="no-json" method="get"><div id="search-box-minWidth"></div><div id="search-box-sizer"></div><div id="searchform"><input id="search-box" placeholder="search" name="q" class="has-default-text" /> <a href="http://wiki.jenkins-ci.org/display/JENKINS/Search+Box"><img height="16" alt="help for search" width="16" src="/jenkins/static/17b52c07/images/16x16/help.png" /></a><div id="search-box-completion"></div><script>createSearchBox("/jenkins/job/Develop-Android-A9VG/search/");</script></div></form></td><td id="login-field"><span></span></td></tr></table></td></tr><tr id="top-nav"><td id="left-top-nav" colspan="2"><link rel='stylesheet' href='/jenkins/adjuncts/17b52c07/lib/layout/breadcrumbs.css' type='text/css' /><script src='/jenkins/adjuncts/17b52c07/lib/layout/breadcrumbs.js' type='text/javascript'></script><div class="top-sticker noedge"><div class="top-sticker-inner"><div id="right-top-nav"><div id="right-top-nav"><div class="smallfont"><a href="?auto_refresh=true">ENABLE AUTO REFRESH</a></div></div></div><ul id="breadcrumbs"><li class="item"><a class="model-link inside" href="/jenkins/">Jenkins</a></li><li class="children" href="/jenkins/"></li><li class="item"><a class="model-link inside" href="/jenkins/job/Develop-Android-A9VG/">Develop-Android-A9VG</a></li><li class="children" href="/jenkins/job/Develop-Android-A9VG/"></li></ul><div id="breadcrumb-menu-target"></div></div></div></td></tr></table><table id="main-table" height="70%" style="background-image: url(/jenkins/static/17b52c07/images/jenkins.png);                background-repeat: no-repeat; background-position: bottom left;" width="100%" border="0"><tr><td id="side-panel" width="20%"><div id="navigation" style="min-height: 323px; height: auto !important; height: 323px;"><div id="tasks"><div class="task">
+          
+
+          <a href="/jenkins/"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/up.png" /></a> <a href="/jenkins/">Back to Dashboard</a></div><div class="task">
+          
+
+          <a href="/jenkins/job/Develop-Android-A9VG/"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/search.png" /></a> <a href="/jenkins/job/Develop-Android-A9VG/"><b>Status</b></a><div class="subtasks"></div></div><div class="task">
+          
+
+          <a href="/jenkins/job/Develop-Android-A9VG/changes"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/notepad.png" /></a> <a href="/jenkins/job/Develop-Android-A9VG/changes">Changes</a></div><div class="task">
+          
+
+          <a href="/jenkins/job/Develop-Android-A9VG/ws/"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/folder.png" /></a> <a href="/jenkins/job/Develop-Android-A9VG/ws/">Workspace</a></div><div class="task">
+          
+
+          <a onclick="return build_id10275004(this)" href="/jenkins/job/Develop-Android-A9VG/build?delay=0sec"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/clock.png" /></a> <a onclick="return build_id10275004(this)" href="/jenkins/job/Develop-Android-A9VG/build?delay=0sec">Build Now</a></div><script>function build_id10275004(a) {
+              new Ajax.Request(a.href);
+              
+              hoverNotification('Build scheduled',a.parentNode);
+              return false;
+            }</script><div class="task">
+          
+
+          <a onclick="confirmPOST_id10275007(true, '/jenkins/job/Develop-Android-A9VG/doDelete', 'Are you sure about deleting the Project ‘Develop-Android-A9VG’?')" href="#"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/edit-delete.png" /></a><script>function confirmPOST_id10275007(post, href, message) {
+            if (confirm(message)) {
+                var form = document.createElement('form');
+                form.setAttribute('method', post ? 'POST' : 'GET');
+                form.setAttribute('action', href);
+                if (post) {
+                    crumb.appendToForm(form);
+                }
+                document.body.appendChild(form);
+                form.submit();
+            }
+            return false;
+        }</script> <a onclick="confirmPOST_id10275008(true, '/jenkins/job/Develop-Android-A9VG/doDelete', 'Are you sure about deleting the Project ‘Develop-Android-A9VG’?')" href="#">Delete Project</a><script>function confirmPOST_id10275008(post, href, message) {
+            if (confirm(message)) {
+                var form = document.createElement('form');
+                form.setAttribute('method', post ? 'POST' : 'GET');
+                form.setAttribute('action', href);
+                if (post) {
+                    crumb.appendToForm(form);
+                }
+                document.body.appendChild(form);
+                form.submit();
+            }
+            return false;
+        }</script></div><div class="task">
+          
+
+          <a href="/jenkins/job/Develop-Android-A9VG/configure"><img height="24" style="margin: 2px;" alt="" width="24" src="/jenkins/static/17b52c07/images/24x24/setting.png" /></a> <a href="/jenkins/job/Develop-Android-A9VG/configure">Configure</a></div></div><table id="buildHistory" class="pane"><tr><td colspan="3" class="pane-header"><div style="float:right">(<a href="/jenkins/job/Develop-Android-A9VG/buildTimeTrend">trend</a>)</div><div data="100" class="healthReport" onmouseover="this.className='healthReport hover';return true;
+        " onmouseout="this.className='healthReport';return true;"><a href="/jenkins/job/Develop-Android-A9VG/lastBuild"><img alt="100%" class="icon16x16" src="/jenkins/static/17b52c07/images/16x16/health-80plus.png"/></a><div class="healthReportDetails"><table border="0"><thead><tr><th align="left">W</th><th align="left">Description</th><th align="right">%</th></tr></thead><tbody><tr><td align="left"><img title="" alt="" src="/jenkins/static/17b52c07/images/16x16/health-80plus.png"/></td><td>Build stability: No recent builds failed.</td><td align="right">100</td></tr></tbody></table></div></div>Build History</td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/88/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #88
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/88/">Dec 14, 2015 2:53:37 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/87/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #87
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/87/">Dec 14, 2015 9:53:45 AM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/86/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #86
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/86/">Dec 11, 2015 3:08:53 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/85/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #85
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/85/">Dec 11, 2015 9:59:45 AM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/84/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #84
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/84/">Dec 10, 2015 9:54:11 AM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/83/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #83
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/83/">Dec 10, 2015 9:49:22 AM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/82/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #82
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/82/">Dec 9, 2015 6:05:49 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/81/console"><img height="16" alt="Failed &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/red.png" tooltip="Failed &gt; Console Output" /></a> 
+      #81
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/81/">Dec 9, 2015 5:50:54 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/80/console"><img height="16" alt="Failed &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/red.png" tooltip="Failed &gt; Console Output" /></a> 
+      #80
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/80/">Dec 9, 2015 5:46:52 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/79/console"><img height="16" alt="Failed &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/red.png" tooltip="Failed &gt; Console Output" /></a> 
+      #79
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/79/">Dec 9, 2015 5:35:23 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/78/console"><img height="16" alt="Failed &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/red.png" tooltip="Failed &gt; Console Output" /></a> 
+      #78
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/78/">Dec 9, 2015 5:32:25 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/77/console"><img height="16" alt="Aborted &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/grey.png" tooltip="Aborted &gt; Console Output" /></a> 
+      #77
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/77/">Nov 16, 2015 9:31:35 AM</a></td><td class="middle-align"></td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/76/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #76
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/76/">Nov 10, 2015 3:23:42 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/75/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #75
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/75/">Nov 10, 2015 3:07:13 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/74/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #74
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/74/">Nov 10, 2015 2:20:26 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/73/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #73
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/73/">Nov 10, 2015 2:11:14 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/72/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #72
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/72/">Nov 10, 2015 2:04:11 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/71/console"><img height="16" alt="Unstable &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/yellow.png" tooltip="Unstable &gt; Console Output" /></a> 
+      #71
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/71/">Nov 10, 2015 12:34:22 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/70/console"><img height="16" alt="Aborted &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/grey.png" tooltip="Aborted &gt; Console Output" /></a> 
+      #70
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/70/">Nov 9, 2015 6:48:35 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row no-wrap "><td><a href="/jenkins/job/Develop-Android-A9VG/69/console"><img height="16" alt="Success &gt; Console Output" width="16" src="/jenkins/static/17b52c07/images/16x16/blue.png" tooltip="Success &gt; Console Output" /></a> 
+      #69
+    </td><td style="padding-right:0"><a class="tip model-link inside" href="/jenkins/job/Develop-Android-A9VG/69/">Nov 9, 2015 4:49:54 PM</a></td><td class="middle-align"> </td></tr><tr class="build-row"><td colspan="3" align="right"><a href="/jenkins/job/Develop-Android-A9VG/rssAll"><img height="16" alt="Feed" width="16" src="/jenkins/static/17b52c07/images/atom.gif" border="0" /></a> <a href="/jenkins/job/Develop-Android-A9VG/rssAll">RSS for all</a> <a href="/jenkins/job/Develop-Android-A9VG/rssFailed"><img height="16" alt="Feed" width="16" src="/jenkins/static/17b52c07/images/atom.gif" border="0" /></a> <a href="/jenkins/job/Develop-Android-A9VG/rssFailed">RSS for failures</a></td></tr></table><script defer="true">updateBuildHistory("/jenkins/job/Develop-Android-A9VG/buildHistory/ajax",89);</script></div></td><td id="main-panel" width="80%" height="100%"><a name="skip2content"></a><h1>Project Develop<wbr>-Android<wbr>-A9VG</h1><div id="description"><div>最新版&#xff0c;版本号 2.1。</div><div align="right"><a onclick="return replaceDescription();" href="editDescription"><img height="16" alt="" width="16" src="/jenkins/static/17b52c07/images/16x16/notepad.png" />edit description</a></div></div><div align="right"><form method="post" action="disable"><input name="Submit" value="Disable Project" class="submit-button" type="submit" /></form></div><div style="float:right"></div><table style="margin-top: 1em; margin-left:1em;"><tr><td><a href="ws/"><img height="48" style="margin-right:1em" alt="" width="48" src="/jenkins/static/17b52c07/images/48x48/folder.png" /></a></td><td style="vertical-align:middle"><a href="ws/">Workspace</a></td></tr><tr><td><a href="changes"><img height="48" style="margin-right:1em" alt="" width="48" src="/jenkins/static/17b52c07/images/48x48/notepad.png" /></a></td><td style="vertical-align:middle"><a href="changes">Recent Changes</a></td></tr></table><table style="margin-top: 1em; margin-left: 1em;"><tr><td><img height="48" style="margin-right:1em" alt="" width="48" src="/jenkins/static/17b52c07/images/48x48/package.png" /></td><td style="vertical-align:middle"><a target="_black" href="http://10.3.254.114:8085/androidapp/Develop-Android-A9VG/407/94/2015-12-14_14-53-37">打包输出文件</a><span style="color:green;" alt="200">[存档有效]</span><div><div>
+						最后一次成功构建:
+						<a href="88">#88</a></div><table class="fileList"><tr><td><img height="16" alt="" width="16" src="/jenkins/static/17b52c07/images/16x16/text.png" /></td><td><a target="_black" href="http://10.3.254.114:8085/androidapp/Develop-Android-A9VG/407/94/2015-12-14_14-53-37/A9VG-wanmei-debug-unaligned.apk">A9VG-wanmei-debug-unaligned.apk</a></td><td class="fileSize"></td></tr><tr><td><img height="16" alt="" width="16" src="/jenkins/static/17b52c07/images/16x16/text.png" /></td><td><a target="_black" href="http://10.3.254.114:8085/androidapp/Develop-Android-A9VG/407/94/2015-12-14_14-53-37/A9VG-wanmei-debug.apk">A9VG-wanmei-debug.apk</a></td><td class="fileSize"></td></tr><tr><td><img height="16" alt="" width="16" src="/jenkins/static/17b52c07/images/16x16/text.png" /></td><td><a target="_black" href="http://10.3.254.114:8085/androidapp/Develop-Android-A9VG/407/94/2015-12-14_14-53-37/A9VG-wanmei-release-unaligned.apk">A9VG-wanmei-release-unaligned.apk</a></td><td class="fileSize"></td></tr><tr><td><img height="16" alt="" width="16" src="/jenkins/static/17b52c07/images/16x16/text.png" /></td><td><a target="_black" href="http://10.3.254.114:8085/androidapp/Develop-Android-A9VG/407/94/2015-12-14_14-53-37/A9VG-wanmei-release.apk">A9VG-wanmei-release.apk</a></td><td class="fileSize"></td></tr></table></div></td></tr></table><h2>Permalinks</h2><ul><li><a class="model-link inside tl-tr" href="lastBuild/">Last build (#88), 2 hr 50 min ago</a></li><li><a class="model-link inside tl-tr" href="lastStableBuild/">Last stable build (#88), 2 hr 50 min ago</a></li><li><a class="model-link inside tl-tr" href="lastSuccessfulBuild/">Last successful build (#88), 2 hr 50 min ago</a></li><li><a class="model-link inside tl-tr" href="lastFailedBuild/">Last failed build (#81), 4 days 23 hr ago</a></li><li><a class="model-link inside tl-tr" href="lastUnstableBuild/">Last unstable build (#71), 1 mo 4 days ago</a></li><li><a class="model-link inside tl-tr" href="lastUnsuccessfulBuild/">Last unsuccessful build (#81), 4 days 23 hr ago</a></li></ul></td></tr></table><table width="100%"><tr><td id="footer"><span style="padding-right:2em; color:gray">
+          Page generated:
+          Dec 14, 2015 5:44:27 PM</span><span style="padding-right:2em"><a href="api/">REST API</a></span><a href="http://jenkins-ci.org/">Jenkins ver. 1.535</a></td></tr></table><div id="l10n-dialog" class="dialog"></div><div id="l10n-footer" style="display:none; float:left"><a href="#" onclick="return showTranslationDialog();"><img src="/jenkins/static/17b52c07/plugin/translation/flags.png" />
+      Help us localize this page
+    </a></div><script>var footer = document.getElementById('l10n-footer');
+    var f = document.getElementById('footer');
+    f.insertBefore(footer,f.firstChild);
+    footer.style.display="block";
+
+    var translation={}; 
+    translation.bundles = "Ds4YyMlW14KRsmVWOHBzqr8cbCXObAXNT4FYShplJJGBNpSrj5LTd5l4B6jjcXLIOvSTQpkRKqGfSkBkskHIvon0joJLoKRFoyTqfmlEWm80BevWwOzgizBRD/vyJ2J7EwS7Mf6FVgIQPC4RAXKUQTG3nf0+Ybtte4UIRIAX0FuplSaRl4TjtOtuPqhV34YkzeHUuBuyHZQaUK6tW6T3Go+LMRQpSGO2J2HXoLVUb/cz0NzCdAI5SVNOQ6ladLIwpc072CiGlbWCU639YbFqMzPAXpk0GDHbKsA0ikTLJ6lcXG3BwGUC19H/f8cMS3iJYKeuI/l5dpQHydn2aZxelqhZ9XUO/4lYmMpoi3gDTDSLpcq8jGjHzkXFGe6/OZ8eUmIodA4AYWJC9tir+Zd9nsleadbxHBv3Be/PebUp0Ci/lWaTKiEEnPhT7xAEQJYAaI36qQDK+UWO1Te/3ALQ1tyNoq15xGX6DHgmjUq1t0kTS3z9scAh8DbtqnkU3xcpvEe58hDEOjLNYgj7vtkHDXzVhYQZBG9nuVeo4VTo+vALakphSGW0LErXnL2IMPltyRSoEb3QskDf08s5AmMWELYtPVitmZo4iPW8MiZgAjSNsf8Xg1gZEFJYursWPLTO7etLNSQv+yGDB9ow1WeUUQbHTfQxXFJGfpThP2u/ST1gqGvU40pgbQqtbLx5kTESFhTmQnHE8xlKM/HJpFEWKnTh8i7mX67TbpPl1R2zjkg=";
+    translation.detectedLocale = "";
+
+    function showTranslationDialog() {
+      if(!translation.launchDialog)
+        loadScript("/jenkins/static/17b52c07/plugin/translation/dialog.js");
+      else
+        translation.launchDialog();
+      return false; 
+    }</script></body></html>
