@@ -1,8 +1,0 @@
-[2018-04-02 20:23:07,015 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2018-04-02 20:23:07,260 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-当前有灾难任务  --[disaster]
-[2018-04-02 20:23:36,265 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2018-04-02 20:23:36,553 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
-[2018-04-02 20:25:31,073 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2018-04-02 20:25:31,340 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
-[2018-04-02 20:31:05,528 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2018-04-02 20:31:05,799 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]

@@ -1,6 +1,0 @@
-[2017-01-06 11:05:28,760 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2017-01-06 11:05:29,020 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
-[2017-01-06 11:41:46,541 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2017-01-06 11:41:46,817 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]
-[2017-01-06 11:45:49,902 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-开始运行  --[disaster]
-[2017-01-06 11:45:50,168 - FailureRetryTask-pool-2 -   INFO]  DetectDisater-运行完毕  --[disaster]

@@ -1,6 +1,0 @@
-[2018-04-16 14:45:42,524 - FailureRetryTask-pool-3 -   INFO]  AgentDetecter-开始运行  --[agentDetecter]
-[2018-04-16 14:45:44,121 - FailureRetryTask-pool-3 -   INFO]  AgentID：2 连接成功  --[agentDetecter]
-[2018-04-16 14:45:44,121 - FailureRetryTask-pool-3 -   INFO]  AgentDetecter-运行完毕  --[agentDetecter]
-[2018-04-16 14:49:24,468 - FailureRetryTask-pool-3 -   INFO]  AgentDetecter-开始运行  --[agentDetecter]
-[2018-04-16 14:49:25,688 - FailureRetryTask-pool-3 -   INFO]  AgentID：2 连接成功  --[agentDetecter]
-[2018-04-16 14:49:25,688 - FailureRetryTask-pool-3 -   INFO]  AgentDetecter-运行完毕  --[agentDetecter]

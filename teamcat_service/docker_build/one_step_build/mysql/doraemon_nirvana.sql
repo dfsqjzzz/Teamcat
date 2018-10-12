@@ -43,12 +43,6 @@ CREATE TABLE `agent` (
   UNIQUE KEY `Name` (`Name`)
 ) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=latin1;
 
--- ----------------------------
---  Records of `agent`
--- ----------------------------
-BEGIN;
-INSERT INTO `agent` VALUES ('1', '2018-04-03 03:24:10.020983', '1', 'VED_Build', '192.168.136.142', '6', '3', '/Users/ksc-ved-qa/Documents/workspace', '16,', '9001', '3', '0', '/Users/ksc-ved-qa/Documents/tools/build_tools'), ('2', '2018-05-09 02:02:37.003204', '1', 'API_Build', '192.168.152.77', '5', '2', 'd:\\workspace', '26,', '9001', '3', '0', 'D:\\javaenv'), ('3', '2018-04-23 09:04:23.337000', '1', 'VED_Build2', '192.168.121.54', '6', '3', '/Users/ksc-it/Documents/workspace', '26,', '9001', '3', '0', '/Users/ksc-it/Documents/tools/build_tools'), ('8', '2018-04-24 09:11:22.423000', '1', 'Test', '192.168.2.3', '6', '3', '/Users/ethan/Documents/teamcatspace', '16,', '23', '3', '0', '/Users/ethan/Documents/teamcatspace'), ('9', '2018-04-19 09:19:46.009000', '1', 'DevAgent', '192.168.152.31', '5', '3', '/home/gaozhenbin/teamcatagenttest', '16,', '9001', '1', '0', '/usr/local/src/jdk1.8.0_144'), ('10', '2018-04-27 08:42:13.084000', '1', 'lsy', '192.168.1.111', '6', '3', '/Users/lusiyuan/Documents/workproject/teamcatspace', '26,', '23', '3', '0', '/Users/lusiyuan/Documents/workproject/teamcatspace'), ('11', '2018-05-02 10:18:30.450000', '1', 'ADCat', '172.32.0.7', '7', '2', '/data/deploy/ADCat/teamcatspace', '16,', '22', '1', '0', '/data/deploy/ADCat/teamcatspace'), ('12', '2018-07-18 02:15:46.603289', '1', 'MockAgent', '10.69.58.253', '7', '2', '/data/teamcat-agent/workspace', '27,', '9001', '1', '0', '/data/teamcat-agent/tools'), ('13', '2018-08-14 09:03:17.347195', '1', 'Sandbox', '172.33.0.7', '7', '2', '/data/deploy/ADCat/teamcatspace', '27,', '22', '3', '0', '/data/deploy/ADCat/teamcatspace');
-COMMIT;
 
 -- ----------------------------
 --  Table structure for `auth_group`
